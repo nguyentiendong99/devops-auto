@@ -49,6 +49,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>devops-auto</finalName>
     </build>
 
 </project>
